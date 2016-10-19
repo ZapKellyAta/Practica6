@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Parmessano Gourmet</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtUser">Usuario</string>
+    <string name="txtRePass">Repetir Contrasena</string>
+    <string name="txtPass">Contrasena</string>
+    <string name="txtPass2">Contrasena</string>
+    <string name="txtEmail">Email</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnRegistro">Registrarse</string>
+    <string name="btnSign">Registrarse</string>
+    <string name="txtRegistro">Registrarse</string>
+    <string name="txtBebidas">Bebidas</string>
+    <string name="txtPastas">Pastas</string>
+    <string name="txtPostres">Postres</string>
+    <string name="txtLogin2">Login</string>
+    <string name="txtEmail2">Email</string>
+    <string name="txtUserRegister">Usuario Registrado</string>
+    <string name="txtPassRegister">Contrasena Registrada</string>
+    <string name="txtEmailRegister">Email Registrado</string>
+    <string name="tabla">Tabla</string>
+    <string name="menuover">Perfil</string>
+    <string name="menumain">Ventana Principal</string>
+    <string name="menu2">Menu</string>
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+    <string name="MiPerfil1">MiPerfil</string>
+    <string name="Principal1">Principal</string>
+    <string name="Fragmentos1">Menu</string>
+    <string name="Usuaria">Alejandra</string>
+    <string name="NA">No</string>
+    <string name="Correo1">Correo</string>
+    <string name="Usuario1">Usuario</string>
+    <string name="Nombre1">Nombre de usuario</string>
+    <string name="Ingrese1">Ingrese el nombre de Usuario:</string>
+    <string name="Ingrese2">Ingrese su contraseña:</string>
+    <string name="Contraseña1">Contraseña</string>
+    <string name="Aceptar1">Aceptar</string>
+    <string name="Registrarse1">Registrarse</string>
+    <string name="Titulo">REGISTRO</string>
+    <string name="Contraseña2">Ingrese nuevamente su contraseña</string>
+    <string name="Contraseña4">Confirmar contraseña</string>
+    <string name="Correo2">Ingrese su correo electrónico</string>
+    <string name="Cancelar1">Cancelar</string>
+    <string name="Titulo2">DATOS DEL REGISTRO</string>
+    <string name="Usuario2">Usuario registrado:</string>
+    <string name="Contraseña3">Contraseña registrada:</string>
+    <string name="Correo3">Correo registrado:</string>
+    <string name="Promociones1">Promociones</string>
+    <string name="Cerrar">Cerrar sesión</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Fragmento1">Logotipo</string>
+    <string name="Fragmento2">Productos</string>
+    <string name="Ensaladas">* Ensaladas *</string>
+    <string name="Sanduches">* Sanduches *</string>
+    <string name="Perfil">* Mi Perfil *</string>
+    <string name="Favoritos">* Mis Favoritos*</string>
+    <string name="MuyParmessano">* Muy Parmessano *</string>
+    <string name="Bebidas"> Bebidas dulces</string>
+    <string name="txtEnsalada">* Ensalada Le Blue *</string>
+    <string name="txtSanduches">* Teriyaki *</string>
+    <string name="txtMuyParmessano">* Rissoto de Pollo y Setas *</string>
+    <string name="TextoEnsalada">Variedad de lechugas, rúgula, pollo apanado, apio, manzanas verdes, almendras tostadas y tostones, aderezada con salsa de queso azul.</string>
+    <string name="TextoSanduche">Julianas de pollo en salsa teriyaki, queso mozzarella y queso fundido, tomates, champiñones, salsa de eneldo y mostaza gourmet en nuestro pan teja</string>
+    <string name="TextoMuy">Cremoso y aromático, con setas de temporada, pollo parrillado y un toque de salsa fra diávola</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

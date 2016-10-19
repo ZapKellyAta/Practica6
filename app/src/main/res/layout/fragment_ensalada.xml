@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Ensaladas"
+        android:textSize="30sp"
+        android:textColor="@color/saddlebrown"
+        android:textStyle="bold"
+        android:layout_marginTop="20sp"
+        android:gravity="center"/>
+    <ImageView
+        android:layout_width="192dp"
+        android:layout_height="225dp"
+        android:src="@drawable/ensalda"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtEnsalada"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/brown"
+        android:layout_marginTop="5sp"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TextoEnsalada"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="25sp"
+        android:gravity="center"/>
+</LinearLayout>
